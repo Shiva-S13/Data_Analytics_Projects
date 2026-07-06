@@ -101,4 +101,4 @@ This project demonstrates:
 
 ## Dashboard Preview
 
-![Dashboard](Pizza-Sales-Analysis/Screenshot 2026-07-06 145337.png)
+[Dashboard](Pizza-Sales-Analysis/Screenshot 2026-07-06 145337.png)
