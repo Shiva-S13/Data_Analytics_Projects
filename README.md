@@ -91,4 +91,4 @@ Additional projects and dashboards will continue to be added, including:
 
 ## About Me
 
-Aspiring Data Analyst passionate about transforming data into actionable business insights through analytics, visualization, and storytelling.
+Passionate about solving business problems using data analytics, visualization, and reporting by building practical SQL and Power BI projects focused on business insights and decision-making.
