@@ -1,18 +1,33 @@
 
+
 # Pizza Sales Analysis Dashboard
 
-## Project Overview
+## Business Requirement
 
-This project focuses on analyzing pizza sales data using SQL and Power BI to uncover business insights, sales trends, and customer ordering behavior.
+The objective of this project is to analyze pizza sales data and build an interactive Power BI dashboard to help business stakeholders monitor sales performance, identify customer ordering trends, and improve business decision-making.
 
-The dashboard helps analyze:
+The dashboard provides insights into:
 
-* Total Revenue
-* Total Orders
-* Best Selling Pizzas
-* Sales Trends
-* Peak Order Hours
-* Category Performance
+* Revenue performance
+* Order trends
+* Best & worst-performing pizzas
+* Customer purchase behavior
+* Sales distribution across categories and sizes
+* Peak business hours
+
+---
+
+## Problem Statement
+
+The business wanted to understand:
+
+* Which pizzas generate the highest revenue
+* Which products underperform
+* When customers place the highest number of orders
+* Which pizza categories are most popular
+* How sales fluctuate over time
+
+The goal was to convert raw sales data into actionable business insights using Power BI.
 
 ---
 
@@ -22,7 +37,7 @@ The dashboard helps analyze:
 * Power BI
 * Excel
 * DAX
-* Data Cleaning
+* Data Cleaning & Transformation
 
 ---
 
@@ -30,62 +45,81 @@ The dashboard helps analyze:
 
 ### 1. Data Collection
 
-Imported pizza sales dataset into SQL Server and Power BI.
+Imported pizza sales data from Excel into Power BI for analysis and dashboard creation.
 
-### 2. Data Cleaning & Transformation
+### 2. Data Cleaning
 
-* Removed null values
-* Checked duplicates
-* Standardized columns
-* Fixed data types
+Performed:
 
-### 3. SQL Analysis
+* Null value checks
+* Duplicate validation
+* Data type corrections
+* Data transformation
 
-Performed SQL queries for:
+### 3. Data Analysis
 
-* Revenue analysis
-* Order trends
-* Product performance
-* Category analysis
-* Daily & hourly sales trends
+Analyzed:
+
+* Total Revenue
+* Total Orders
+* Average Order Value
+* Pizza Category Performance
+* Best & Bottom Selling Products
+* Sales Trends by Time
 
 ### 4. Dashboard Development
 
-Created interactive Power BI dashboards using:
+Built interactive dashboards using:
 
 * KPI Cards
 * Bar Charts
-* Pie Charts
-* Slicers & Filters
 * Trend Visualizations
+* Filters & Slicers
+* Comparative Analysis Charts
+
+---
+
+## Key Business Questions Answered
+
+1. Which pizza category generated the highest revenue?
+2. Which pizzas are the top-selling products?
+3. Which pizzas are underperforming?
+4. What are the peak sales hours?
+5. Which pizza size contributes the most revenue?
+6. How do sales vary across days and months?
+7. Which products should the business promote more aggressively?
 
 ---
 
 ## Key Insights
 
-* Weekends generated higher sales
-* Large pizzas contributed maximum revenue
-* Evening hours showed peak order activity
-* Certain pizza categories consistently performed better
+* Weekend sales were higher compared to weekdays
+* Large-sized pizzas contributed significantly to total revenue
+* Evening hours showed the highest order activity
+* Certain pizza categories consistently outperformed others
+* A small number of products generated a major share of revenue
+* Some pizzas showed consistently low sales and may require marketing improvements
 
 ---
 
 ## Dashboard Features
 
 * Interactive filtering
-* Revenue tracking
-* Product performance analysis
-* Trend analysis
-* Dynamic visualizations
+* Dynamic KPI tracking
+* Best & Bottom product analysis
+* Revenue trend monitoring
+* Product category comparison
+* User-friendly dashboard navigation
 
 ---
 
-## Files Included
+## Business Recommendations
 
-* Power BI Dashboard (.pbix)
-* Dataset (.xlsx / .csv)
-* Dashboard Screenshots
-* README Documentation
+* Increase promotions during peak hours
+* Focus marketing on high-performing pizza categories
+* Review low-performing products for optimization
+* Improve inventory planning based on sales trends
+* Introduce combo offers for popular pizza sizes
 
 ---
 
@@ -93,11 +127,25 @@ Created interactive Power BI dashboards using:
 
 This project demonstrates:
 
-* SQL skills
-* Data analysis
-* Dashboard building
+* Data analysis skills
 * Business intelligence reporting
+* Dashboard development
 * Data storytelling
+* KPI analysis
+* Business insight generation using Power BI
+
+---
+
+## Repository Structure
+
+```text
+Pizza-Sales-Analysis
+│
+├── README.md
+├── pizza_sales_dashboard.pbix
+├── pizza_sales_data.xlsx
+└── dashboard.png
+```
 
 ## Dashboard Preview
 
