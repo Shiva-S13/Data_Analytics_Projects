@@ -98,3 +98,7 @@ This project demonstrates:
 * Dashboard building
 * Business intelligence reporting
 * Data storytelling
+
+## Dashboard Preview
+
+![Dashboard](Pizza-Sales-Analysis/Screenshot 2026-07-06 145337.png)
