@@ -101,5 +101,5 @@ This project demonstrates:
 
 ## Dashboard Preview
 
-[Dashboard](Pizza_Sales_1.png)
-[Dashboard](Pizza_Sales_2.png)
+[Dashboard_1](Pizza_Sales_1.png)
+[Dashboard_2](Pizza_Sales_2.png)
