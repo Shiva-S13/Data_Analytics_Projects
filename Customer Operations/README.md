@@ -354,7 +354,7 @@ Customer-Operations-Metrics
 
 ## Dashboard Preview
 
-[Dashboard_1](Customer Operations_1.png)
+![Dashboard 1](Customer-Operations/Customer-Operations_1.png)
 
-[Dashboard_2](Customer Operations_2.png)
+![Dashboard 2](Customer-Operations/Customer-Operations_2.png)
 
